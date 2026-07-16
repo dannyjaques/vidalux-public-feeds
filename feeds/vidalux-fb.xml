@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Vidalux — Facebook</title>
+    <link>https://www.vidalux.co.uk/</link>
+    <description>Vidalux — Facebook social feed</description>
+    <language>en-gb</language>
+    <ttl>30</ttl>
+    <item>
+      <title><![CDATA[Pipeline seed test — delete after validation]]></title>
+      <description><![CDATA[Vidalux social pipeline seed post (Facebook). This is a test item used to validate the RSS feed and Sociamonials source. Delete this draft once the source is confirmed working.]]></description>
+      <pubDate>Thu, 16 Jul 2026 11:40:08 +0000</pubDate>
+      <guid isPermaLink="false">https://www.vidalux.co.uk/social#fb-2026-07-16-seed-test</guid>
+      <enclosure url="https://dannyjaques.github.io/vidalux-public-feeds/images/VX_2026-07-16-seed-test-2026-07-16.png" length="3160" type="image/png"/>
+      <media:content url="https://dannyjaques.github.io/vidalux-public-feeds/images/VX_2026-07-16-seed-test-2026-07-16.png" medium="image" type="image/png"/>
+    </item>
+  </channel>
+</rss>
